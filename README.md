@@ -1,2 +1,1 @@
-# sql-theory-query-&
-
+All Sql& Dbms related things
